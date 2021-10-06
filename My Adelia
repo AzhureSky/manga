@@ -1,0 +1,23 @@
+{
+  "title": "My Adelia",
+  "description": "Yoel is an orphaned werewolf boy whose village was destroyed by vampires. Escaping into the forest, he collapses and is saved by a beautiful but clumsy vampire who's afraid of strangers. The two start living together, but she's so clumsy that it's hard to tell who is taking care of who. The story of two awkward and lonely people.",
+  "artist": "Ito Kyosuke",
+  "author": "Ito Kyosuke",
+  "cover": "https://imgur.com/gcIXStb.jpg",
+  "chapters": {
+    "1": {
+      "title": "The Boy who was Picked Up",
+      "groups": {
+        "Butterfly Scans": "/proxy/api/imgur/chapter/CsUHj4b/"
+      },
+      "last_updated": "1617704888"
+    },
+    "2": {
+      "title": "Rendezvous",
+      "volume": "1",
+      "groups": {
+        "TSP": "/proxy/api/imgur/chapter/wjFH2Zg/"
+      },
+      "last_updated": "1618740944"
+    }
+}
